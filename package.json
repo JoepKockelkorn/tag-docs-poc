@@ -4,6 +4,7 @@
   "main": "index.html",
   "repository": "https://github.com/JoepKockelkorn/tag-docs-poc.git",
   "author": "Joep Kockelkorn <joepkockelkorn@gmail.com>",
+  "homepage": "https://joepkockelkorn.github.io/tag-docs-poc/",
   "license": "MIT",
   "private": true,
   "scripts": {
